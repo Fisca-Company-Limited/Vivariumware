@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1618673188 source:d:\lavori di informatica\c++\calcolatrice\calcolatrice.cpp
+	<iostream>
+	<math.h>
+	"Calcolatrice.h"
+
+1618673210 d:\lavori di informatica\c++\calcolatrice\calcolatrice.h
+
+1618672226 source:d:\lavori di informatica\c++\calcolatrice\main.cpp
+	<iostream>
+	"Calcolatrice.h"
+	<math.h>
+	<windows.h>
+
+1618674070 source:c:\users\maria\desktop\org\scuola\informatica\c - c++\vivariumware\calcolatrice\calcolatrice.cpp
+	<iostream>
+	<math.h>
+	"Calcolatrice.h"
+
+1618673562 c:\users\maria\desktop\org\scuola\informatica\c - c++\vivariumware\calcolatrice\calcolatrice.h
+
+1618674066 source:c:\users\maria\desktop\org\scuola\informatica\c - c++\vivariumware\calcolatrice\main.cpp
+	<iostream>
+	"Calcolatrice.h"
+	<math.h>
+
